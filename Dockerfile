@@ -24,7 +24,7 @@
 #
 
 docker-version	0.6.1
-FROM	ubuntu:14.04
+FROM	onlinelabs/ubuntu
 MAINTAINER	Tianon Gravi <admwiggin@gmail.com> (@tianon)
 
 # Packaged dependencies
